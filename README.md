@@ -31,6 +31,6 @@ Welcome to my GitHub profile! I am a dedicated software engineering student and 
   A repository focused on the development and exploration of AI & ML techniques, featuring projects, code, and resources that document my learning journey.
 
 ## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/ka%C4%9Fan-ar%C4%B1ba%C5%9F-b8a8b6214/) | [Instagram, Twitter](aribaskagan)
+- [LinkedIn](https://www.linkedin.com/in/ka%C4%9Fan-ar%C4%B1ba%C5%9F-b8a8b6214/) | [Instagram](https://www.instagram.com/aribaskagan/)
 
 I invite you to explore my repositories, and I look forward to potential collaborations and engaging discussions! 😊
