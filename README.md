@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I am a dedicated software engineering student and 
 - **Development Tools:** Visual Studio Code, PyCharm, Git, GitHub  
 
 ## 📈 My Projects  
-### 🚀 **My Projects**  
-
 #### 🕒 **KEGOMODORO – Open-Source Pomodoro Timer**  
 A lightweight, customizable **Pomodoro & Stopwatch** app to boost productivity!  
 ✅ Pomodoro & Stopwatch modes  
@@ -39,7 +37,7 @@ Perfect for personal blogging and learning web development basics.
 🐍 Built with Python – Lightweight & extensible  
 💻 **Open Source!** Customize, extend, and contribute!  
 
-🔗 [GitHub](https://github.com/Kagankakao/My-Website)  
+🔗 [GitHub](https://github.com/Kagankakao/Blog-Website) 
 
 ---  
 
