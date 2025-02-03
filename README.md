@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I am a dedicated software engineering student and 
 - [KEGOMODORO – Open-Source Pomodoro Timer](https://github.com/Kagankakao/KEGOMODORO)  
   A lightweight, customizable Pomodoro & Stopwatch app to boost productivity! 
   ✅ Pomodoro & Stopwatch modes
+  
   ✅ Always-on-top floating window
   ✅ Work hour tracking with Pixela integration
   ✅ Quick notes & productivity insights
