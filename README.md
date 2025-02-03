@@ -13,30 +13,47 @@ Welcome to my GitHub profile! I am a dedicated software engineering student and 
 - **Development Tools:** Visual Studio Code, PyCharm, Git, GitHub  
 
 ## 📈 My Projects  
-- [KEGOMODORO – Open-Source Pomodoro Timer](https://github.com/Kagankakao/KEGOMODORO)  
-  A lightweight, customizable Pomodoro & Stopwatch app to boost productivity! 
-  ✅ Pomodoro & Stopwatch modes
-  ✅ Always-on-top floating window
-  ✅ Work hour tracking with Pixela integration
-  ✅ Quick notes & productivity insights
-  🎭 Behelit Mode (Berserk-themed timer!)
-  🐍 Built with Python – Simple & extensible
-  💻 Open Source! Customize themes, tweak features, and contribute!
+### 🚀 **My Projects**  
 
-- [Blog-Website – Flask Blog Platform](https://github.com/Kagankakao/Blog-Website)
-  A simple yet powerful blog platform built with Flask & SQLAlchemy! Perfect for personal blogging and learning web development basics.
-  ✅ Create & manage posts
-  ✅ Comment functionality
-  ✅ Clean & user-friendly interface
-  🐍 Built with Python – Lightweight & extensible
-  💻 Open Source! Customize, extend, and contribute! 
+#### 🕒 **KEGOMODORO – Open-Source Pomodoro Timer**  
+A lightweight, customizable **Pomodoro & Stopwatch** app to boost productivity!  
+✅ Pomodoro & Stopwatch modes  
+✅ Always-on-top floating window  
+✅ Work hour tracking with Pixela integration  
+✅ Quick notes & productivity insights  
+🎭 **Behelit Mode** (Berserk-themed timer!)  
+🐍 Built with Python – Simple & extensible  
+💻 **Open Source!** Customize themes, tweak features, and contribute!  
 
-- [My AI Journey – Exploring AI & ML](https://github.com/Kagankakao/My-AI-Journey)  
-  A deep dive into AI & Machine Learning, documenting my growth through projects, code, and insights. 🚀
-  ✅ Hands-on AI & ML projects
-  ✅ Experimentation with cutting-edge techniques
-  ✅ Open-source resources & learning materials
-  💻 Join the Journey! Fork, learn, and contribute as I push the boundaries of AI innovation. 
+🔗 [GitHub](https://github.com/Kagankakao/KEGOMODORO)  
+
+---  
+
+#### ✍️ **Blog-Website – Flask Blog Platform**  
+A simple yet powerful **blog platform** built with Flask & SQLAlchemy!  
+Perfect for personal blogging and learning web development basics.  
+
+✅ Create & manage posts  
+✅ Comment functionality  
+✅ Clean & user-friendly interface  
+🐍 Built with Python – Lightweight & extensible  
+💻 **Open Source!** Customize, extend, and contribute!  
+
+🔗 [GitHub](https://github.com/Kagankakao/My-Website)  
+
+---  
+
+#### 🤖 **My AI Journey – Exploring AI & ML**  
+A deep dive into **AI & Machine Learning**, documenting my growth through projects, code, and insights. 🚀  
+
+✅ Hands-on AI & ML projects  
+✅ Experimentation with cutting-edge techniques  
+✅ Open-source resources & learning materials  
+💻 **Join the Journey!** Fork, learn, and contribute as I push the boundaries of AI innovation.  
+
+🔗 [GitHub](https://github.com/Kagankakao/My-AI-Journey)  
+
+🔥 Let's build the future of AI together!
 
 ## 📺 My YouTube Channel  
 Check out my YouTube channel for tutorials, project walkthroughs, and coding tips:  
