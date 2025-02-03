@@ -7,10 +7,14 @@ Welcome to my GitHub profile! I am a dedicated software engineering student and 
 - 💼 I aspire to work for innovative software companies abroad.  
 
 ## 🔧 Technologies & Tools  
-- **Programming Languages:** Python, SQL  
-- **Frameworks:** PyTorch, Flask  
-- **Libraries:** Pandas, Matplotlib, NumPy  
-- **Development Tools:** Visual Studio Code, PyCharm, Git, GitHub  
+- **Programming Languages:** Python, SQL, Bash  
+- **AI & Machine Learning:** PyTorch, scikit-learn   
+- **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn 
+- **Web Development:** Flask, REST APIs, WTForms, HTML, CSS, Bootstrap  
+- **Automation & Scripting:** Selenium, BeautifulSoup, Requests  
+- **Databases:** SQLite, PostgreSQL  
+- **Development Tools:** Visual Studio Code, PyCharm, Jupyter Notebook, Git, GitHub  
+- **Deployment & Version Control:** GitHub Pages  
 
 ## 📈 My Projects  
 #### 🕒 **KEGOMODORO – Open-Source Pomodoro Timer**  
