@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I am a dedicated software engineering student and 
 - 💼 I aspire to work for innovative software companies abroad.  
 
 ## 🔧 Technologies & Tools  
-- **Programming Languages:** Python, SQL, Bash  
+- **Programming Languages:** Python, Bash  
 - **AI & Machine Learning:** PyTorch, scikit-learn   
-- **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn 
+- **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy
 - **Web Development:** Flask, REST APIs, WTForms, HTML, CSS, Bootstrap  
 - **Automation & Scripting:** Selenium, BeautifulSoup, Requests  
 - **Databases:** SQLite, PostgreSQL  
