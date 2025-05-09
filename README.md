@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a dedicated software engineering student and 
 - **Programming Languages:** Python, Bash  
 - **AI & Machine Learning:** PyTorch, scikit-learn   
 - **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy
-- **Web Development:** Flask, REST APIs, WTForms, HTML, CSS, Bootstrap  
+- **Web Development:** Flask, FastAPI, REST APIs, WTForms, HTML, CSS, Bootstrap  
 - **Automation & Scripting:** Selenium, BeautifulSoup, Requests  
 - **Databases:** SQLite, PostgreSQL  
 - **Development Tools:** Visual Studio Code, PyCharm, Jupyter Notebook, Git, GitHub  
