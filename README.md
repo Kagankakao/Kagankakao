@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kağan!  
 
-Welcome to my GitHub profile! I am a dedicated software engineering student and an enthusiast in Data Science, AI & ML. I am eager to share my projects and collaborate with fellow developers.  
+Welcome to my GitHub profile! I am a dedicated software engineering student and an enthusiast in Data Science, AI & Game Dev. I am eager to share my projects and collaborate with fellow developers.  
 
 ## 🚀 About Me  
 - 🌱 I have successfully completed several projects utilizing PyTorch for computer vision, and I am currently expanding my skill set by learning Torchaudio for an upcoming major project.  
