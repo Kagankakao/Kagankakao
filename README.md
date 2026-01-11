@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I am a dedicated software engineering student and 
 
 ## 🔧 Technologies & Tools  
 - **Programming Languages:** Python, Bash  
-- **AI & Machine Learning:** PyTorch, scikit-learn   
+- **AI & Machine Learning:** PyTorch, scikit-learn
+- **Game Development:** Unreal Engine, C++
 - **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy
 - **Web Development:** Flask, FastAPI, REST APIs, WTForms, HTML, CSS, Bootstrap  
 - **Automation & Scripting:** Selenium, BeautifulSoup, Requests  
