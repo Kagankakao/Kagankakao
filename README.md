@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kağan!  
+# Hello, I'm Kağan!  
 
 Welcome to my GitHub profile! I am a dedicated software engineering student and an enthusiast in Data Science, AI & Game Dev. I am eager to share my projects and collaborate with fellow developers.  
 
