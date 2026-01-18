@@ -29,23 +29,7 @@ A lightweight, customizable **Pomodoro & Stopwatch** app to boost productivity!
 🐍 Built with Python – Simple & extensible  
 💻 **Open Source!** Customize themes, tweak features, and contribute!  
 
-🔗 [GitHub](https://github.com/Kagankakao/KEGOMODORO)  
-
----  
-
-#### ✍️ **Blog-Website – Flask Blog Platform**  
-A simple yet powerful **blog platform** built with Flask & SQLAlchemy!  
-Perfect for personal blogging and learning web development basics.  
-
-✅ Create & manage posts  
-✅ Comment functionality  
-✅ Clean & user-friendly interface  
-🐍 Built with Python – Lightweight & extensible  
-💻 **Open Source!** Customize, extend, and contribute!  
-
-🔗 [GitHub](https://github.com/Kagankakao/Blog-Website) 
-
----  
+🔗 [GitHub](https://github.com/Kagankakao/KEGOMODORO)    
 
 #### 🤖 **My AI Journey – Exploring AI & ML**  
 A deep dive into **AI & Machine Learning**, documenting my growth through projects, code, and insights. 🚀  
