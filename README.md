@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Banner" width="720">
+<img src="assets/banner.png" alt="Banner" width="860">
 
 # Kağan Arıbaş
 AI / NLP Engineer • CS undergrad @ Firat University • Turkish morphology & tokenization • Production RAG and retrieval optimization
