@@ -5,6 +5,7 @@ AI / NLP Engineer • CS undergrad @ Firat University • Turkish morphology & t
 
 ## Portfolio
 Visit my portfolio for demos, case studies, and deeper project details: https://your-portfolio.example
+Best viewed on desktop.
 
 I build practical NLP systems with a focus on Turkish language modeling, efficient retrieval, and LLM app quality. Recently I am working on FST-based morphology, RAG pipelines, and evaluation-driven improvements.
 
