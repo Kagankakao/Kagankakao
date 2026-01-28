@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+<img src="assets/banner.png" alt="Banner" width="720">
 
 # Kagan Aribas
 AI / NLP Engineer • CS undergrad @ Firat University • Turkish morphology & tokenization • Production RAG and retrieval optimization
