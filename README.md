@@ -1,53 +1,46 @@
-# Hello, I'm Kağan!  
+![Banner](assets/banner.png)
 
-Welcome to my GitHub profile! I am a dedicated software engineering student and an enthusiast in Data Science, AI & Game Dev. I am eager to share my projects and collaborate with fellow developers.  
+# Kagan Aribas
+AI / NLP Engineer • CS undergrad @ Firat University • Turkish morphology & tokenization • Production RAG and retrieval optimization
 
-## 🚀 About Me  
-- 🌱 I have successfully completed several projects utilizing PyTorch for computer vision, and I am currently expanding my skill set by learning Torchaudio for an upcoming major project.  
-- 💼 I aspire to work for innovative software companies abroad.  
+## Portfolio
+Visit my portfolio for demos, case studies, and deeper project details: https://your-portfolio.example
 
-## 🔧 Technologies & Tools  
-- **Programming Languages:** Python, Bash  
-- **AI & Machine Learning:** PyTorch, scikit-learn
-- **Game Development:** Unreal Engine, C++
-- **Data Science & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy
-- **Web Development:** Flask, FastAPI, REST APIs, WTForms, HTML, CSS, Bootstrap  
-- **Automation & Scripting:** Selenium, BeautifulSoup, Requests  
-- **Databases:** SQLite, PostgreSQL  
-- **Development Tools:** Visual Studio Code, PyCharm, Jupyter Notebook, Git, GitHub  
-- **Deployment & Version Control:** GitHub Pages  
+I build practical NLP systems with a focus on Turkish language modeling, efficient retrieval, and LLM app quality. Recently I am working on FST-based morphology, RAG pipelines, and evaluation-driven improvements.
 
-## 📈 My Projects  
-#### 🕒 **KEGOMODORO – Open-Source Pomodoro Timer**  
-A lightweight, customizable **Pomodoro & Stopwatch** app to boost productivity!  
+## Focus
+- RAG systems: retrieval, chunking, re-ranking, and evaluation loops
+- Turkish NLP: morphology, tokenizers, and linguistic pipelines
+- LLM applications: chatbot integration, cost/latency optimization, and tooling
 
-✅ Pomodoro & Stopwatch modes  
-✅ Always-on-top floating window  
-✅ Work hour tracking with Pixela integration  
-✅ Quick notes & productivity insights  
-🎭 **Behelit Mode** (Berserk-themed timer!)  
-🐍 Built with Python – Simple & extensible  
-💻 **Open Source!** Customize themes, tweak features, and contribute!  
+## Highlights
+- Reduced token usage and API cost by ~80–90% with system-level optimizations while preserving quality
+- Built an FST-based Turkish morphology model with 65K+ stems and 200+ suffix forms
+- Designed a Viterbi-based POS disambiguation approach for context-sensitive analyses
 
-🔗 [GitHub](https://github.com/Kagankakao/KEGOMODORO)    
+## Projects
+- Turkish Morphological Segmentation (OpenFST) — https://github.com/TurkishTokenizer/turkish-morphological-segmentation
+- FitTurkAI (Teknofest) — https://github.com/FitTurkAI/FitTurkAI
+- IpekGPT (production LLM chatbot) — https://ipekgpt-production.up.railway.app
 
-#### 🤖 **My AI Journey – Exploring AI & ML**  
-A deep dive into **AI & Machine Learning**, documenting my growth through projects, code, and insights. 🚀  
+## Tech
+- Languages: Python, C#, C++, Java
+- ML/NLP: PyTorch, scikit-learn, Transformers, embeddings, RAG
+- Data: Pandas, NumPy, Matplotlib
+- Infra: Docker, Linux, Git
 
-✅ Hands-on AI & ML projects  
-✅ Experimentation with cutting-edge techniques  
-✅ Open-source resources & learning materials  
-💻 **Join the Journey!** Fork, learn, and contribute as I push the boundaries of AI innovation.  
+## Collaboration
+- Problem solving: structured approach, clear trade-offs, and measurable outcomes
+- Teamwork: dependable in cross-functional teams, open to feedback, and supportive in reviews
 
-🔗 [GitHub](https://github.com/Kagankakao/My-AI-Journey)  
+## Links
+- Portfolio: https://your-portfolio.example
+- GitHub: https://github.com/Kagankakao
+- LinkedIn: https://linkedin.com/in/aribaskagan
+- X: https://x.com/aribaskagan
+- YouTube: https://youtube.com/@kegan_dev
+- Email: aribaskagan@gmail.com
 
-🔥 Let's build the future of AI together!
-
-## 📺 My YouTube Channel  
-Check out my YouTube channel for tutorials, project walkthroughs, and coding tips:  
-👉 [Kegan__ on YouTube](https://www.youtube.com/@Kegan__)  
-
-## 📫 Get in Touch  
-- [LinkedIn](https://www.linkedin.com/in/ka%C4%9Fan-ar%C4%B1ba%C5%9F-b8a8b6214/) | [Instagram](https://www.instagram.com/aribaskagan/)  
-
-I invite you to explore my repositories, and I look forward to potential collaborations and engaging discussions!  
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=kagankakao&show_icons=true&hide_border=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagankakao&layout=compact&hide_border=true)
