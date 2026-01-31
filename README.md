@@ -22,7 +22,7 @@ I build practical NLP systems with a focus on Turkish language modeling, efficie
 ## Projects
 - [Turkish Morphological Segmentation (OpenFST)](https://github.com/TurkishTokenizer/turkish-morphological-segmentation)
 - [FitTurkAI (Teknofest)](https://github.com/FitTurkAI/FitTurkAI)
-- [IpekGPT (production LLM chatbot](https://ipekgpt-production.up.railway.app))
+- [İpekGPT (production LLM chatbot](https://ipekgpt-production.up.railway.app))
 
 ## Tech
 - Languages: Python, C#, C++, Java
@@ -35,11 +35,12 @@ I build practical NLP systems with a focus on Turkish language modeling, efficie
 - Teamwork: dependable in cross-functional teams, open to feedback, and supportive in reviews
 
 ## Links
-- Portfolio: https://aribaskagan.up.railway.app/
-- GitHub: https://github.com/Kagankakao
-- LinkedIn: https://linkedin.com/in/aribaskagan
-- X: https://x.com/aribaskagan
-- YouTube: https://youtube.com/@kegan_dev
+- Portfolio: [https://aribaskagan.up.railway.app/](https://aribaskagan.up.railway.app/)
+- GitHub: [https://github.com/Kagankakao](https://github.com/Kagankakao)
+- LinkedIn: [https://linkedin.com/in/aribaskagan](https://linkedin.com/in/aribaskagan)
+- Hugging Face: [https://huggingface.co/KEGAN0](https://huggingface.co/KEGAN0)
+- X: [https://x.com/aribaskagan](https://x.com/aribaskagan)
+- YouTube: [https://youtube.com/@kegan_dev](https://youtube.com/@kegan_dev)
 - Email: aribaskagan@gmail.com
 
 ## Stats
