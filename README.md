@@ -1,7 +1,7 @@
 <img src="assets/banner.png" alt="Banner" width="860">
 
 # Kağan Arıbaş
-AI / NLP Engineer • CS undergrad @ Fırat University • Turkish morphology & tokenization • Production RAG and retrieval optimization
+AI / NLP Engineer • SE undergrad @ Fırat University • Turkish morphology & tokenization • Production RAG and retrieval optimization
 
 ## Portfolio
 Visit my portfolio for demos, case studies, and deeper project details: https://your-portfolio.example
