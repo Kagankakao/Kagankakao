@@ -3,9 +3,9 @@
 # Kağan Arıbaş
 AI / NLP Engineer • SE undergrad @ Fırat University • Turkish morphology & tokenization • Production RAG and retrieval optimization
 
-## Portfolio
-Visit my portfolio for demos, case studies, and deeper project details: https://your-portfolio.example
-Best viewed on desktop.
+## [Portfolio](https://aribaskagan.up.railway.app/)
+Visit my [portfolio](https://aribaskagan.up.railway.app/) for demos, case studies, and deeper project details: https://aribaskagan.up.railway.app/
+(Best viewed on desktop.)
 
 I build practical NLP systems with a focus on Turkish language modeling, efficient retrieval, and LLM app quality. Recently I am working on FST-based morphology, RAG pipelines, and evaluation-driven improvements.
 
@@ -20,9 +20,9 @@ I build practical NLP systems with a focus on Turkish language modeling, efficie
 - Designed a Viterbi-based POS disambiguation approach for context-sensitive analyses
 
 ## Projects
-- Turkish Morphological Segmentation (OpenFST) — https://github.com/TurkishTokenizer/turkish-morphological-segmentation
-- FitTurkAI (Teknofest) — https://github.com/FitTurkAI/FitTurkAI
-- IpekGPT (production LLM chatbot) — https://ipekgpt-production.up.railway.app
+- [Turkish Morphological Segmentation (OpenFST)](https://github.com/TurkishTokenizer/turkish-morphological-segmentation)
+- [FitTurkAI (Teknofest)](https://github.com/FitTurkAI/FitTurkAI)
+- [IpekGPT (production LLM chatbot](https://ipekgpt-production.up.railway.app))
 
 ## Tech
 - Languages: Python, C#, C++, Java
