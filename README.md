@@ -35,7 +35,7 @@ I build practical NLP systems with a focus on Turkish language modeling, efficie
 - Teamwork: dependable in cross-functional teams, open to feedback, and supportive in reviews
 
 ## Links
-- Portfolio: https://your-portfolio.example
+- Portfolio: https://aribaskagan.up.railway.app/
 - GitHub: https://github.com/Kagankakao
 - LinkedIn: https://linkedin.com/in/aribaskagan
 - X: https://x.com/aribaskagan
