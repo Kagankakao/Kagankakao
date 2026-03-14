@@ -1,7 +1,7 @@
 <img src="assets/banner.png" alt="Banner" width="860">
 
 # Kağan Arıbaş
-AI / NLP Engineer • SE undergrad @ Fırat University • Turkish morphology & tokenization • Production RAG and retrieval optimization
+AI / NLP Engineer • SE undergrad 3.61 GPA @ Fırat University • Turkish morphology & tokenization • Production RAG and retrieval optimization
 
 ## [Portfolio](https://aribaskagan.up.railway.app/)
 Visit my [portfolio](https://aribaskagan.up.railway.app/) for demos, case studies, and deeper project details: https://aribaskagan.up.railway.app/
