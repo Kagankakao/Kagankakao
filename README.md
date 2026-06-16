@@ -10,9 +10,8 @@ Visit my [portfolio](https://aribaskagan.up.railway.app/) for demos, case studie
 I build practical NLP systems with a focus on Turkish language modeling, efficient retrieval, and LLM app quality. Recently I am working on FST-based morphology, RAG pipelines, and evaluation-driven improvements.
 
 ## Focus
-- RAG systems: retrieval, chunking, re-ranking, and evaluation loops
+- AI automation: agent workflows, process orchestration, and tool integration
 - Turkish NLP: morphology, tokenizers, and linguistic pipelines
-- LLM applications: chatbot integration, cost/latency optimization, and tooling
 
 ## Highlights
 - Reduced token usage and API cost by ~80–90% with system-level optimizations while preserving quality
