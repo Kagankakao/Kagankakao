@@ -25,9 +25,9 @@ I build practical NLP systems with a focus on Turkish language modeling, efficie
 
 ## Tech
 - Languages: Python, C#, C++, Java
-- ML/NLP: PyTorch, scikit-learn, Transformers, embeddings, RAG
+- ML/NLP: PyTorch, Langscikit-learn, Transformers, embeddings, RAG
 - Data: Pandas, NumPy, Matplotlib
-- Infra: Docker, Linux, Git
+- Infra: Docker, Linux, Git, HuggingFace
 
 ## Collaboration
 - Problem solving: structured approach, clear trade-offs, and measurable outcomes
