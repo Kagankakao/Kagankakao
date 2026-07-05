@@ -29,7 +29,7 @@ A lightweight, customizable **Pomodoro & Stopwatch** app to boost productivity!
 🐍 Built with Python – Simple & extensible  
 💻 **Open Source!** Customize themes, tweak features, and contribute!  
 
-🔗 [GitHub](https://github.com/Kagankakao/KEGOMODORO)    
+🔗 [GitHub](https://github.com/aribaskagan/KEGOMODORO)    
 
 #### 🤖 **My AI Journey – Exploring AI & ML**  
 A deep dive into **AI & Machine Learning**, documenting my growth through projects, code, and insights. 🚀  
@@ -39,7 +39,7 @@ A deep dive into **AI & Machine Learning**, documenting my growth through projec
 ✅ Open-source resources & learning materials  
 💻 **Join the Journey!** Fork, learn, and contribute as I push the boundaries of AI innovation.  
 
-🔗 [GitHub](https://github.com/Kagankakao/My-AI-Journey)  
+🔗 [GitHub](https://github.com/aribaskagan/My-AI-Journey)  
 
 🔥 Let's build the future of AI together!
 

@@ -36,12 +36,12 @@ I build practical NLP systems with a focus on Turkish language modeling, efficie
 
 ## Links
 - Portfolio: https://your-portfolio.example
-- GitHub: https://github.com/Kagankakao
+- GitHub: https://github.com/aribaskagan
 - LinkedIn: https://linkedin.com/in/aribaskagan
 - X: https://x.com/aribaskagan
 - YouTube: https://youtube.com/@kegan_dev
 - Email: aribaskagan@gmail.com
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=kagankakao&show_icons=true&hide_border=true&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kagankakao&layout=compact&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=aribaskagan&show_icons=true&hide_border=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aribaskagan&layout=compact&hide_border=true)
